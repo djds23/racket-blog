@@ -27,7 +27,7 @@
 ;; Code here
 
 (module+ test
-  (require "unit/test-lib.rkt"))
+  (require "test/test-lib.rkt"))
 
 (module+ main
   ;; Main entry point, executed when run with the `racket` executable or DrRacket.
